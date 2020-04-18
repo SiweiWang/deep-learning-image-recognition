@@ -8,6 +8,6 @@ pillow
 scikit-learn
 scipy
 tensorboard==1.13.1
-tensorflow==1.13.1
+tensorflow==1.15.2
 google-api-python-client==1.6.7
 joblib
