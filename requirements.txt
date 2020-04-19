@@ -2,12 +2,12 @@ numpy
 pip>=9.0.0
 pandas
 matplotlib
-Keras==2.1.6
+Keras==2.3.1
 h5py
 pillow
 scikit-learn
 scipy
-tensorboard==1.13.1
-tensorflow==1.13.1
+tensorboard==2.1.0
+tensorflow==2.1.0
 google-api-python-client==1.6.7
 joblib
